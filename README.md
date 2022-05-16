@@ -6,7 +6,7 @@ I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started
 <br>
 Check out my **portfolio** site. *I'm still working on it at the moment, so it isn't fully done yet!*
 <br>
-https://basbakens.ga
+<a href="https://basbakens.ga">basbakens.ga</a>
 <br>
 <br>
 **Contact me**: <a href="mailto:bas.bakens@gmail.com">bas.bakens04@gmail.com</a>
