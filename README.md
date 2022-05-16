@@ -1,6 +1,6 @@
 # bash-04.github.io
 ### Hello there! 👋
-My name is <a href="https://basbakens.ga">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *17* years old. 
+My name is <a href="https://basbakens.ga" target=blank>*Bas Bakens*</a> AKA <a href="https://github.com/bash-04" target=blank>*Bash-04*</a> and I am *17* years old. 
 <br>
 I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own **portfolio** site.
 <br>
