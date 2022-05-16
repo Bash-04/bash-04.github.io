@@ -9,7 +9,7 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 https://basbakens.ga
 <br>
 <br>
-**Contact me**: bas.bakens04@gmail.com
+**Contact me**: <a href="mailto:bas.bakens@gmail.com">bas.bakens04@gmail.com</a>
 
 <hr>
 
