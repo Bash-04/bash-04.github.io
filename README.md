@@ -1,4 +1,4 @@
-#Bash-04
+# Bash-04
 ### Hello there! 👋
 My name is <a href="https://basbakens.ga" target="blank">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04" target="blank">*Bash-04*</a> and I am *17* years old. 
 <br>
