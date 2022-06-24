@@ -13,11 +13,18 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 
 <hr>
 
+### Socials:
+- <a href="https://instagram.com/basbakensdev" target="blank">Instagram</a>
+- <a href="https://discord.com/users/428516097244004352">Discord</a>
+- <a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin</a>
+
+<hr>
+
 ### Current project:
+- <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
 
 ### Earlier projects:
-- <a href="https://github.com/Bash-04/basbakens.-">basbakens.-</a> (Portfolio site) [status: On Hold]
 - <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
 - <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
 
@@ -25,6 +32,8 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 
 ### My GitHub pages
 - <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
+- <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
+- <a href="https://Bash-04.GitHub.io/TheDashboard/web/">Bash-04.GitHub.io/TheDashboard/web/</a>
 
 <hr>
 
